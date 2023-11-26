@@ -1,0 +1,10 @@
+{
+  "name": "Shadow theme",
+  "type": "Theme",
+  "author": "Notro",
+  "icon": "Shadow.png",
+  "file": "Shadow.json",
+  "shortDescription": "Darker SkEditor!",
+  "longDescription": "",
+  "version": "1.0.0"
+}
