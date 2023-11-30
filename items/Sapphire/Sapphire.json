@@ -1,0 +1,20 @@
+{
+  "Name": "Sapphire",
+  "BackgroundColor": "#ff090d1d",
+  "SmallWindowBackgroundColor": "#ff090d1d",
+  "EditorBackgroundColor": "#ff060a16",
+  "EditorTextColor": "#ffcdcaca",
+  "LineNumbersColor": "#ff8a8a8a",
+  "SelectionColor": "#64143e91",
+  "SelectedTabItemBackground": "#ff060a16",
+  "SelectedTabItemBorder": "Transparent",
+  "MenuBackground": "#ff080e1f",
+  "MenuBorder": "#ff0d152e",
+  "TextBoxFocusedBackground": "#ff0c0c1c",
+  "AccentColor": "#ff24256e",
+  "CustomFont": null,
+  "CustomColorChanges": {
+    "ToggleSwitchKnobFillOn": "White",
+    "ToggleSwitchKnobFillOnPointerOver": "White"
+  }
+}

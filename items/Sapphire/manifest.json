@@ -1,0 +1,10 @@
+{
+  "name": "Sapphire theme",
+  "type": "Theme",
+  "author": "Notro",
+  "icon": "Sapphire.png",
+  "file": "Sapphire.json",
+  "shortDescription": "Dark-blue vibe theme",
+  "longDescription": "",
+  "version": "1.0.0"
+}
