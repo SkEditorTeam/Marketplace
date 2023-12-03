@@ -6,6 +6,6 @@
   "file": "AnalyzerAddon.dll",
   "shortDescription": "Quickly identify errors in your scripts!",
   "longDescription": "The Analyzer enables you to analyze your code by displaying errors, warnings, and script information without the need to check it on the Minecraft server.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "requiresRestart": false
 }
