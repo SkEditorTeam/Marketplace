@@ -15,6 +15,8 @@
   "CustomFont": null,
   "CustomColorChanges": {
     "TextControlSelectionHighlightColor": "#25ffffff",
-    "ContentDialogTopOverlay": "#ff141414"
+    "ContentDialogTopOverlay": "#ff141414",
+    "ToggleButtonBackgroundChecked": "#40ffffff",
+    "ToggleButtonBackgroundCheckedPointerOver": "#40ffffff"
   }
 }
