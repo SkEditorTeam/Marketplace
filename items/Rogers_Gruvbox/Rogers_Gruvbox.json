@@ -1,0 +1,17 @@
+{
+  "Name": "Roger's Gruvbox theme",
+  "BackgroundColor": "#ff3c3836",
+  "SmallWindowBackgroundColor": "#ff3c3836",
+  "EditorBackgroundColor": "#ff282828",
+  "EditorTextColor": "#ffebd9b0",
+  "LineNumbersColor": "#ffa89985",
+  "SelectionColor": "#ff3c3836",
+  "SelectedTabItemBackground": "#ff282828",
+  "SelectedTabItemBorder": "#751c1c1c",
+  "MenuBackground": "#ff3c3836",
+  "MenuBorder": "#75161616",
+  "TextBoxFocusedBackground": "#ff3c3836",
+  "AccentColor": "#ff0ead6c",
+  "CustomFont": null,
+  "CustomColorChanges": {}
+}
