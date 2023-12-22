@@ -1,0 +1,10 @@
+{
+  "name": "Ocean Depths theme",
+  "type": "Theme",
+  "author": "Notro",
+  "icon": "OceanDepths.png",
+  "file": "OceanDepths.json",
+  "shortDescription": "Blue-green theme",
+  "longDescription": "Blue-green theme",
+  "version": "1.0.0"
+}

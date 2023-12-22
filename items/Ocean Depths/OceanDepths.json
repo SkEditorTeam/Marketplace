@@ -1,0 +1,20 @@
+{
+  "Name": "Ocean Depths",
+  "BackgroundColor": "#ff07161e",
+  "SmallWindowBackgroundColor": "#ff07161e",
+  "EditorBackgroundColor": "#ff091c26",
+  "EditorTextColor": "#ffcdcaca",
+  "LineNumbersColor": "#ff8a8a8a",
+  "SelectionColor": "#64143e91",
+  "SelectedTabItemBackground": "#ff091c26",
+  "SelectedTabItemBorder": "Transparent",
+  "MenuBackground": "#ff081a24",
+  "MenuBorder": "#ff061118",
+  "TextBoxFocusedBackground": "#ff061219",
+  "AccentColor": "#ff123a4f",
+  "CustomFont": null,
+  "CustomColorChanges": {
+    "ToggleSwitchKnobFillOn": "White",
+    "ToggleSwitchKnobFillOnPointerOver": "White"
+  }
+}
