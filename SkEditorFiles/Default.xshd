@@ -30,17 +30,17 @@
 		</Span>
 		
 		<Span color="Command">
-			<Begin>command \u0020/</Begin>
+			<Begin>^command \u0020/</Begin>
 			<End>:</End>
 		</Span>
 		
 		<Span color="Command">
-			<Begin>function \u0020.</Begin>
+			<Begin>^function \u0020.</Begin>
 			<End>/^[a-z].*[a-z]$/im</End>
 		</Span>
 		
 		<Span color="Command">
-			<Begin>\bon \u0020.</Begin>
+			<Begin>^on \u0020.</Begin>
 			<End>/^[a-z].*[a-z]$/im</End>
 		</Span>
 		<Rule color="Command">(?=\bimport).*(?&lt;=:)</Rule>
