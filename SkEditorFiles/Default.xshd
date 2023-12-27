@@ -86,7 +86,7 @@
 		</Keywords>
 		
 		<Span color="LogicOperators">
-			<Begin>\b(is(n't)?(\u0020not)?|are(n't)?(\u0020not)?|do(es)?(n't)?(\u0020not)?|don't|have(n't)?|has(n't)?(\u0020not)?|did\u0020not|didn't)</Begin>
+			<Begin>\b(is(n't)?(\u0020not)?|are(n't)?(\u0020not)?|do(es)?(n't)?(\u0020not)?|don't|have(n't)?|has(n't)?(\u0020not)?|did\u0020not|didn't)\b</Begin>
 			<End></End>
 			<RuleSet>
 				<Span begin="#"/>
