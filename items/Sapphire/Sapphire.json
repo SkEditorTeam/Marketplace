@@ -16,6 +16,6 @@
   "CustomColorChanges": {
     "ToggleSwitchKnobFillOn": "White",
     "ToggleSwitchKnobFillOnPointerOver": "White",
-	"ContentDialogTopOverlay": "#80000000",
+	"ContentDialogTopOverlay": "#4d000000",
   }
 }
