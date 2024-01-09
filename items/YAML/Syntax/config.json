@@ -1,0 +1,9 @@
+{
+    "SyntaxName": "Default",
+    "LanguageName": "YAML",
+    "Extensions": [
+        ".yaml",
+        ".yml"
+    ],
+    "Version": "1.0.0"
+}
