@@ -1,1 +1,10 @@
-
+{
+  "name": "YAML Test",
+  "type": "FileSyntax",
+  "author": "Sky",
+  "icon": "YAML.png",
+  "folder": "Syntax",
+  "shortDescription": "YAML highlighting test for new file syntaxes",
+  "longDescription": "YAML highlighting test for new file syntaxes",
+  "version": "1.0.0"
+}
