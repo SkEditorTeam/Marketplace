@@ -4,7 +4,9 @@
   "author": "RogerDodg3r",
   "icon": "Gruvbox.png",
   "themeFile": "Rogers_Gruvbox.json",
-  "syntaxFile": "Rogers_Gruvbox.xshd",
+  "syntaxFolders": [
+    "RG_Skript"
+  ],
   "shortDescription": "Skript but in gruvbox!",
   "longDescription": "Skript but in gruvbox!",
   "version": "1.0.0"
