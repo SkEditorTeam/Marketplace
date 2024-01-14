@@ -1,0 +1,12 @@
+{
+  "name": "VSC YAML",
+  "type": "NewSyntax",
+  "author": "Notro",
+  "icon": "vsc-yaml.png",
+  "syntaxFolders": [
+    "VSC-YAML"
+  ],
+  "shortDescription": "VSC-like YAML syntax highlighting",
+  "longDescription": "Syntax highlighting for YAML files based on one used in Visual Studio Code.",
+  "version": "1.0.0"
+}
