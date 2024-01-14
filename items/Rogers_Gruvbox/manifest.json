@@ -1,6 +1,6 @@
 {
   "name": "Roger's Gruvbox",
-  "type": "ThemeWithSyntax",
+  "type": "NewThemeWithSyntax",
   "author": "RogerDodg3r",
   "icon": "Gruvbox.png",
   "themeFile": "Rogers_Gruvbox.json",
