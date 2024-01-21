@@ -50,12 +50,12 @@
 			<End>}</End>
 		</Span>
 		
-		<Span color="Argument">
-			<Begin>\[.*?\]</Begin>
+		<Span color="LogicOperators">
+			<Begin> \u0020\[.*?\]</Begin>
 			<End></End>
 		</Span>
-		<Span color="Argument">
-			<Begin>&lt;.*?&gt;</Begin>
+		<Span color="LogicOperators">
+			<Begin> \u0020&lt;.*?&gt;</Begin>
 			<End></End>
 		</Span>
 		
