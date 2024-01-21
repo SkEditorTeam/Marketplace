@@ -50,6 +50,15 @@
 			<End>}</End>
 		</Span>
 		
+		<Span color="Argument">
+			<Begin>\[.*?\]</Begin>
+			<End></End>
+		</Span>
+		<Span color="Argument">
+			<Begin>&lt;.*?&gt;</Begin>
+			<End></End>
+		</Span>
+		
 		<Span color="Comment" begin="(?&lt;!&lt;|&lt;#)\#.*" />
 		
 		<Keywords color="Command">
