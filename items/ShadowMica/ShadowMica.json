@@ -1,0 +1,24 @@
+{
+  "Name": "Shadow with Mica",
+  "BackgroundColor": "#66000000",
+  "SmallWindowBackgroundColor": "#66000000",
+  "EditorBackgroundColor": "#000d0d0d",
+  "EditorTextColor": "#ffcdcaca",
+  "LineNumbersColor": "#ff8a8a8a",
+  "SelectionColor": "#641a6096",
+  "SelectedTabItemBackground": "#26000000",
+  "SelectedTabItemBorder": "#00181818",
+  "MenuBackground": "#ff151515",
+  "MenuBorder": "#ff262626",
+  "TextBoxFocusedBackground": "#ff191919",
+  "AccentColor": "White",
+  "CustomFont": null,
+  "UseMicaEffect": true,
+  "CustomColorChanges": {
+    "TextControlSelectionHighlightColor": "#25ffffff",
+    "ContentDialogTopOverlay": "#ff141414",
+    "ToggleButtonBackgroundChecked": "#40ffffff",
+    "ToggleButtonBackgroundCheckedPointerOver": "#40ffffff",
+    "SkEditorBorderBackground": "#05ffffff"
+  }
+}

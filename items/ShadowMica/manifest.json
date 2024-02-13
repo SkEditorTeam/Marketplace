@@ -1,0 +1,10 @@
+{
+  "name": "Shadow with Mica effect",
+  "type": "Theme",
+  "author": "Notro",
+  "icon": "Shadow.png",
+  "file": "ShadowMica.json",
+  "shortDescription": "The default shadow theme with Mica effect support",
+  "longDescription": "The default shadow theme with Mica effect support",
+  "version": "1.0.0"
+}
