@@ -6,6 +6,6 @@
   "file": "DiSkySupport.dll",
   "shortDescription": "Add some features related to the DiSky addon.",
   "longDescription": "This addon adds two small new features; you can generate a bot loading code & buttons via an easy-to-use UI.",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "requiresRestart": false
 }
