@@ -1,20 +1,24 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark (Skript)",
-  "colors": {
-    
-  },
+  "name": "Dark Skript",
+  "colors": {},
   "tokenColors": [
     {
       "scope": "comment.line.sk",
       "settings": {
-        "foreground": "#808080"
+        "foreground": "#808080",
       }
     },
     {
       "scope": "comment.block.sk",
       "settings": {
         "foreground": "#808080"
+      }
+    },
+    {
+      "scope": "comment.todo.sk",
+      "settings": {
+        "foreground": "#5fd1ab"
       }
     },
     {
@@ -120,13 +124,14 @@
       "scope": "function.sk",
       "settings": {
         "foreground": "#ff6544",
+        "fontStyle": "bold"
       }
     },
     {
       "scope": "function.name.sk",
       "settings": {
         "foreground": "#90dbf5",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -138,7 +143,8 @@
     {
       "scope": "function.plain.sk",
       "settings": {
-        "foreground": "#ff6544"
+        "foreground": "#cdcaca",
+        "fontStyle": ""
       }
     },
     {
