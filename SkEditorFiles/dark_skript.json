@@ -6,7 +6,7 @@
     {
       "scope": "comment.line.sk",
       "settings": {
-        "foreground": "#808080",
+        "foreground": "#808080"
       }
     },
     {
