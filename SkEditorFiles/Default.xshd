@@ -35,7 +35,7 @@
 		</Span>
 		
 		<Span color="Command">
-			<Begin>^function \u0020.</Begin>
+			<Begin>^(?:local \u0020)?function \u0020.</Begin>
 			<End>/^[a-z].*[a-z]$/im</End>
 		</Span>
 		
