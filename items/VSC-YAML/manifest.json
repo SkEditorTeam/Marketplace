@@ -8,5 +8,5 @@
   ],
   "shortDescription": "VSC-like YAML syntax highlighting",
   "longDescription": "Syntax highlighting for YAML files based on one used in Visual Studio Code.",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
